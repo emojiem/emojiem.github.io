@@ -21,5 +21,6 @@ Ein weiterer Bereich, der mich begeistert, ist 3D-Druck und Modellierung. Ich fi
 ## Aktuelle Hobbies
 
 Momentan ist mein größtes Interesse die Astronomie und Astrofotografie. Ich liebe es, den Himmel zu beobachten und die Schönheit des Universums einzufangen. Diese Leidenschaft motiviert mich, neue Technologien und Methoden zu erlernen, um noch präzisere und beeindruckendere Aufnahmen zu machen.
+![Image](docs/assets/1000024638.jpg)
 
 Ich freue mich darauf, meine Reise in der Welt der Technik und Wissenschaft fortzusetzen und meine Projekte hier zu teilen.
