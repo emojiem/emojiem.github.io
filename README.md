@@ -2,7 +2,7 @@
 
 ## über mich
 
-Hallo, mein Name ist Senhadji Ahmed Mohamed und ich bin ein leidenschaftlicher Technikbegeisterter mit einer starken Affinität für Mechatronik. Durch meine bisherigen Erfahrungen und Projekte habe ich ein tiefes Interesse an verschiedenen Bereichen der Technologie entwickelt, darunter Programmierung, Elektronik, 3D-Druck und Modellierung.
+Hallo, mein Name ist Senhadji Ahmed Mohamed. Schon als Kind war ich von der Funktionsweise der Dinge fasziniert. Ich habe stets versucht, Dinge zu reparieren und zu verstehen, sei es durch das Zerlegen von Objekten oder das improvisierte Reparieren mit begrenzten Werkzeugen wie einem Messer als Schraubenzieher und einem Block als Hammer. Obwohl es mir nicht vergönnt war, eine Universität zu besuchen, habe ich nie den Glauben an meine Träume verloren. Inspiriert von Wissenschaftlern wie Michael Faraday, die ohne formale Ausbildung große Beiträge leisteten, frage ich mich oft, wie viele der großen Denker der Vergangenheit ohne Zertifikate weitergemacht haben. Ich verfolge nun entschlossen meinen eigenen Weg.
 
 ## Coding
 
