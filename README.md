@@ -6,7 +6,7 @@
 
 ## Coding
 
-In meiner Freizeit habe ich viel mit Linux und Bash-Scripting experimentiert und dabei Programmierkenntnisse in C++ für Arduino-Projekte erworben. Auch mit den Grundlagen von HTML habe ich mich beschäftigt, um meine ersten Webseiten zu erstellen und mein Verständnis für Webentwicklung zu erweitern.
+#### In meiner Freizeit habe ich viel mit Linux und Bash-Scripting experimentiert und dabei Programmierkenntnisse in C++ für Arduino-Projekte erworben. Auch mit den Grundlagen von HTML habe ich mich beschäftigt, um meine ersten Webseiten zu erstellen und mein Verständnis für Webentwicklung zu erweitern.
 
 
 
@@ -16,7 +16,7 @@ In meiner Freizeit habe ich viel mit Linux und Bash-Scripting experimentiert und
 
 ## Physik
 
-Besonders fasziniert mich die Physik, und hätte ich die Möglichkeit, hätte ich Physik studiert. Leider wird mein ausländisches Abitur in Deutschland nicht anerkannt, aber ich bin entschlossen, mein Wissen in Physik und anderen technischen Bereichen weiter auszubauen und weiterhin zu lernen.
+#### Besonders fasziniert mich die Physik, und hätte ich die Möglichkeit, hätte ich Physik studiert. Leider wird mein ausländisches Abitur in Deutschland nicht anerkannt, aber ich bin entschlossen, mein Wissen in Physik und anderen technischen Bereichen weiter auszubauen und weiterhin zu lernen.
 
 
 
@@ -27,7 +27,7 @@ Besonders fasziniert mich die Physik, und hätte ich die Möglichkeit, hätte ic
 
 ## 3D-Druck und Modellierung
 
-Ein weiterer Bereich, der mich begeistert, ist 3D-Druck und Modellierung. Ich finde es spannend, wie diese Technologien die Fertigung revolutionieren und neue Möglichkeiten für kreative und funktionale Projekte bieten. Es ist faszinierend, wie man mit einem 3D-Drucker und den richtigen Modellen nahezu alles erstellen kann.
+#### Ein weiterer Bereich, der mich begeistert, ist 3D-Druck und Modellierung. Ich finde es spannend, wie diese Technologien die Fertigung revolutionieren und neue Möglichkeiten für kreative und funktionale Projekte bieten. Es ist faszinierend, wie man mit einem 3D-Drucker und den richtigen Modellen nahezu alles erstellen kann.
 
 
 
@@ -38,7 +38,7 @@ Ein weiterer Bereich, der mich begeistert, ist 3D-Druck und Modellierung. Ich fi
 
 ## Aktuelle Hobbies
 
-Momentan ist mein größtes Interesse die Astronomie und Astrofotografie. Ich liebe es, den Himmel zu beobachten und die Schönheit des Universums einzufangen. Diese Leidenschaft motiviert mich, neue Technologien und Methoden zu erlernen, um noch präzisere und beeindruckendere Aufnahmen zu machen.
+#### Momentan ist mein größtes Interesse die Astronomie und Astrofotografie. Ich liebe es, den Himmel zu beobachten und die Schönheit des Universums einzufangen. Diese Leidenschaft motiviert mich, neue Technologien und Methoden zu erlernen, um noch präzisere und beeindruckendere Aufnahmen zu machen.
 
 
 
@@ -52,4 +52,6 @@ Momentan ist mein größtes Interesse die Astronomie und Astrofotografie. Ich li
 
 
 
-Ich freue mich darauf, meine Reise in der Welt der Technik und Wissenschaft fortzusetzen und meine Projekte hier zu teilen.
+
+
+##Ich freue mich darauf, meine Reise in der Welt der Technik und Wissenschaft fortzusetzen und meine Projekte hier zu teilen.
