@@ -11,7 +11,7 @@ In meiner Freizeit habe ich viel mit Linux und Bash-Scripting experimentiert und
 ## Physik
 
 Besonders fasziniert mich die Physik, und hätte ich die Möglichkeit, hätte ich Physik studiert. Leider wird mein ausländisches Abitur in Deutschland nicht anerkannt, aber ich bin entschlossen, mein Wissen in Physik und anderen technischen Bereichen weiter auszubauen und weiterhin zu lernen.
-
+docs/assets/20241222_165655.jpg
 ## 3D-Druck und Modellierung
 
 Ein weiterer Bereich, der mich begeistert, ist 3D-Druck und Modellierung. Ich finde es spannend, wie diese Technologien die Fertigung revolutionieren und neue Möglichkeiten für kreative und funktionale Projekte bieten. Es ist faszinierend, wie man mit einem 3D-Drucker und den richtigen Modellen nahezu alles erstellen kann.
