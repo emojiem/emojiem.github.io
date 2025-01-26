@@ -7,6 +7,7 @@ Hallo, mein Name ist Senhadji Ahmed Mohamed und ich bin ein leidenschaftlicher T
 ## Coding
 
 In meiner Freizeit habe ich viel mit Linux und Bash-Scripting experimentiert und dabei Programmierkenntnisse in C++ für Arduino-Projekte erworben. Auch mit den Grundlagen von HTML habe ich mich beschäftigt, um meine ersten Webseiten zu erstellen und mein Verständnis für Webentwicklung zu erweitern.
+![Image](docs/assets/VideoCapture_20250126-180844.jpg)
 
 ## Physik
 
