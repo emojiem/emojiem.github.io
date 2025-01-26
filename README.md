@@ -12,7 +12,7 @@ In meiner Freizeit habe ich viel mit Linux und Bash-Scripting experimentiert und
 
 Besonders fasziniert mich die Physik, und hätte ich die Möglichkeit, hätte ich Physik studiert. Leider wird mein ausländisches Abitur in Deutschland nicht anerkannt, aber ich bin entschlossen, mein Wissen in Physik und anderen technischen Bereichen weiter auszubauen und weiterhin zu lernen.
 
-logo: docs/assets/20241222_165655.jpg
+![Bild von mir](docs/assets/20241222_165655.jpg)
 
 ## 3D-Druck und Modellierung
 
