@@ -101,3 +101,18 @@ footer {
     from { opacity: 0; transform: translateY(-30px); }
     to { opacity: 1; transform: translateY(0); }
 }
+.projektbild {
+    width: 100%; /* Make the image responsive */
+    max-width: 500px; /* Prevent it from being too large */
+    height: auto; /* Maintain aspect ratio */
+    display: block;
+    margin: 15px auto; /* Center the image */
+    border-radius: 10px; /* Smooth corners */
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+/* Hover effect for images */
+.projektbild:hover {
+    transform: scale(1.05); /* Slightly enlarge */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); /* Add depth */
+}
