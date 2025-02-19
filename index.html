@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mein Portfolio</title>
+    <link rel="stylesheet" href="stil.css">
+</head>
+<body>
+
+    <header>
+        <h1>Willkommen auf meiner Website</h1>
+        <p>Hier findest du meine Projekte und mehr über mich.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#about">Über mich</a></li>
+            <li><a href="#projects">Projekte</a></li>
+            <li><a href="#contact">Kontakt</a></li>
+        </ul>
+    </nav>
+
+    <section id="about">
+        <h2>Über mich</h2>
+        <p>Ich bin ein leidenschaftlicher Technik-Enthusiast mit Interesse an Mechanik, Programmierung und Innovation.</p>
+    </section>
+
+    <section id="projects">
+        <h2>Projekte</h2>
+        <div class="projekt">
+            <h3>Projekt 1</h3>
+            <p>Beschreibung des Projekts...</p>
+        </div>
+        <div class="projekt">
+            <h3>Projekt 2</h3>
+            <p>Beschreibung des Projekts...</p>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Kontakt</h2>
+        <p>Du kannst mich über LinkedIn oder per E-Mail erreichen:</p>
+        <p><a href="mailto:deinemail@example.com">deinemail@example.com</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Dein Name. Alle Rechte vorbehalten.</p>
+    </footer>
+
+    <script>
+        // Smooth Scrolling Effect
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener("click", function(e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute("href"));
+                if (target) {
+                    target.scrollIntoView({ behavior: "smooth" });
+                }
+            });
+        });
+
+        // Appear on Scroll Effect
+        const sections = document.querySelectorAll("section");
+        const observer = new IntersectionObserver(entries => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.style.opacity = "1";
+                    entry.target.style.transform = "translateY(0)";
+                }
+            });
+        }, { threshold: 0.3 });
+
+        sections.forEach(section => {
+            section.style.opacity = "0";
+            section.style.transform = "translateY(50px)";
+            section.style.transition = "opacity 0.8s ease-out, transform 0.8s ease-out";
+            observer.observe(section);
+        });
+    </script>
+
+</body>
+</html>
