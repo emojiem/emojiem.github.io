@@ -1,57 +1,60 @@
-# Senhadji Ahmed Mohmed 
+---
+layout: default
+title: Senhadji Ahmed Mohamed
+---
 
-## über mich
+# **Senhadji Ahmed Mohamed**
+🔧 *Ingenieurwesen | Automatisierung | Mechanik | Robotik*  
+📍 Kassel, Deutschland  
+📧 [ahmedsenhadji7@gmail.com](mailto:ahmedsenhadji7@gmail.com)  
+🔗 [GitHub-Profil](https://github.com/dein-username)  
 
-#### Hallo, mein Name ist Senhadji Ahmed Mohamed. Schon als Kind war ich von der Funktionsweise der Dinge fasziniert. Ich habe stets versucht, Dinge zu reparieren und zu verstehen, sei es durch das Zerlegen von Objekten oder das improvisierte Reparieren mit begrenzten Werkzeugen wie einem Messer als Schraubenzieher und einem Block als Hammer. Obwohl es mir nicht vergönnt war, eine Universität zu besuchen, habe ich nie den Glauben an meine Träume verloren. Inspiriert von Wissenschaftlern wie Michael Faraday, die ohne formale Ausbildung große Beiträge leisteten, frage ich mich oft, wie viele der großen Denker der Vergangenheit ohne Zertifikate weitergemacht haben. Ich verfolge nun entschlossen meinen eigenen Weg.
+---
 
-## Coding
+## **Über mich**
+Ich bin spezialisiert auf **mechanische Ingenieurtechnik, Automatisierung und Robotik** und habe praktische Erfahrung in Wartung, Montage und Problemlösung. Mein Fokus liegt auf **effizienten technischen Lösungen**, von der Optimierung industrieller Prozesse bis hin zur Prototypenentwicklung neuer mechanischer Systeme.  
 
-#### In meiner Freizeit habe ich viel mit Linux und Bash-Scripting experimentiert und dabei Programmierkenntnisse in C++ für Arduino-Projekte erworben. Auch mit den Grundlagen von HTML habe ich mich beschäftigt, um meine ersten Webseiten zu erstellen und mein Verständnis für Webentwicklung zu erweitern.
+- **3D-Modellierung & Prototyping** (Fusion 360, SolidWorks, 3D-Druck)  
+- **Elektronik & Automatisierung** (Arduino, Sensorik, Pneumatik)  
+- **Mechanische Wartung** (Fahrräder, Motoren, Industrieanlagen)  
 
+---
 
+## **Projekte & Patente**
+### 🔥 **Anti-Explosionreifen mit Mehrfachkammer-System**  
+➡ **Patentnummer:** DE 20 2024 002 233  
+➡ **Status:** In der Entwicklungs- & Vermarktungsphase  
+➡ **Ziel:** Vermeidung plötzlicher Luftverluste durch Reifenpannen  
 
-![Image](docs/assets/VideoCapture_20250126-180844.jpg)
+### 🔧 **Eigenbau eines 2-Takt-Motors aus gebrauchten Teilen**  
+➡ **Zeitraum:** 2023 – 2025  
+➡ **Herausforderungen:** Leistungsoptimierung & thermische Effizienz  
 
+---
 
+## **Berufserfahrung**
+### 🏢 **Kaufland – Lagerlogistik & Staplerfahrer** *(12/2024 – heute)*  
+- Steigerung der Lagerlogistik um **20%** durch effiziente Prozesse  
+- Verantwortung für **bis zu 5000 Pfandflaschen täglich**  
+- Nach **2 Wochen** zusätzliche Verantwortung für komplexe Aufgaben erhalten  
 
-## Physik
+### 🍔 **BurgerKing – Kassierer** *(09/2022 – 11/2024)*  
+- Multitasking: **Kassenführung, Schichtleitung & Küchenaufgaben**  
+- Optimierung der Abläufe zur **Reduzierung der Wartezeiten**  
 
-#### Besonders fasziniert mich die Physik, und hätte ich die Möglichkeit, hätte ich Physik studiert. Leider wird mein ausländisches Abitur in Deutschland nicht anerkannt, aber ich bin entschlossen, mein Wissen in Physik und anderen technischen Bereichen weiter auszubauen und weiterhin zu lernen.
+### 🚲 **Lucky Bike – Fahrradmonteur (Probezeit)** *(11/2024 – 11/2024)*  
+- Montage von **20 Fahrrädern**, darunter E-Bikes  
+- Durchführung von **Sicherheitsprüfungen** nach der Montage  
 
+---
 
+## **Kontakt**
+📧 **E-Mail:** [ahmedsenhadji7@gmail.com](mailto:ahmedsenhadji7@gmail.com)  
+🔗 **GitHub:** [github.com/dein-username](https://github.com/dein-username)  
+🔗 **LinkedIn (falls vorhanden):** [linkedin.com/in/dein-name](https://linkedin.com/in/dein-name)  
 
-![Bild von mir](docs/assets/20241222_165655.jpg)
+---
 
-
-
-
-## 3D-Druck und Modellierung
-
-#### Ein weiterer Bereich, der mich begeistert, ist 3D-Druck und Modellierung. Ich finde es spannend, wie diese Technologien die Fertigung revolutionieren und neue Möglichkeiten für kreative und funktionale Projekte bieten. Es ist faszinierend, wie man mit einem 3D-Drucker und den richtigen Modellen nahezu alles erstellen kann.
-
-
-
-![Image](docs/assets/tempFileForShare_20250126-185331.jpg)
-
-
-
-
-## Aktuelle Hobbies
-
-#### Momentan ist mein größtes Interesse die Astronomie und Astrofotografie. Ich liebe es, den Himmel zu beobachten und die Schönheit des Universums einzufangen. Diese Leidenschaft motiviert mich, neue Technologien und Methoden zu erlernen, um noch präzisere und beeindruckendere Aufnahmen zu machen.
-
-
-
-
-![Image](docs/assets/1000024638.jpg)
-![Image](docs/assets/IMG_1737552196886.jpg)
-
-
-
-
-
-
+*Diese Seite wurde mit [GitHub Pages](https://pages.github.com/) erstellt.*
 
 
-
-## Ich freue mich darauf, meine Reise in der Welt der Technik und Wissenschaft fortzusetzen und meine Projekte hier zu teilen.
