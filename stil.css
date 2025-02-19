@@ -1,103 +1,85 @@
-/* 🌑 Allgemeines Styling */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #121212; /* Dunkler Hintergrund */
-    color: #f0f0f0; /* Helle Schrift */
+    background-color: #121212;
+    color: #ffffff;
 }
 
-/* 🔵 Header */
 header {
-    background: linear-gradient(135deg, #0073e6, #00c2ff);
-    color: white;
     text-align: center;
-    padding: 40px 20px;
-    border-bottom: 4px solid #00c2ff;
-    animation: slideIn 1s ease-out;
+    padding: 20px;
+    background-color: #1e1e1e;
 }
 
-h1 {
-    margin: 0;
-    font-size: 2.5em;
-}
-
-/* 📌 Navigation */
 nav ul {
-    list-style-type: none;
-    padding: 0;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 10px;
+    background-color: #252525;
 }
 
 nav ul li {
-    display: inline;
     margin: 0 15px;
 }
 
 nav ul li a {
-    color: #00c2ff;
     text-decoration: none;
+    color: #ffffff;
     font-weight: bold;
-    transition: color 0.3s ease, text-shadow 0.3s ease;
 }
 
-nav ul li a:hover {
-    color: #ffcc00;
-    text-shadow: 0px 0px 10px #ffcc00;
-}
-
-/* 🔥 Abschnitte */
 section {
-    width: 80%;
-    margin: 40px auto;
-    padding: 20px;
-    background: #1e1e1e;
-    border-radius: 12px;
-    box-shadow: 0px 4px 10px rgba(0, 194, 255, 0.3);
-    animation: fadeIn 1s ease-in-out;
+    padding: 40px;
+    text-align: center;
 }
 
-/* 🖼 Projekte */
-.projekt {
-    background: rgba(0, 194, 255, 0.1);
-    padding: 15px;
-    border-radius: 8px;
-    margin-bottom: 10px;
+h2 {
+    color: #f0a500;
 }
 
-.projekt:hover {
-    background: rgba(0, 194, 255, 0.3);
-    transition: background 0.3s ease;
+ul {
+    list-style: none;
+    padding: 0;
 }
 
-/* 🔗 Links */
+ul li {
+    background: #333;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+img {
+    width: 50%;
+    max-width: 500px;
+    border-radius: 10px;
+    margin: 20px 0;
+    animation: fadeIn 2s ease-in-out;
+}
+
 a {
-    color: #00c2ff;
+    color: #f0a500;
     text-decoration: none;
-    transition: color 0.3s ease, text-shadow 0.3s ease;
 }
 
-a:hover {
-    color: #ffcc00;
-    text-shadow: 0px 0px 10px #ffcc00;
-}
-
-/* 🏁 Footer */
 footer {
     text-align: center;
     padding: 20px;
-    background: #0073e6;
-    color: white;
-    border-top: 4px solid #00c2ff;
+    background-color: #1e1e1e;
 }
 
-/* ⚡️ Keyframe Animationen */
+/* Animations */
 @keyframes fadeIn {
-    from { opacity: 0; transform: translateY(20px); }
-    to { opacity: 1; transform: translateY(0); }
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
 
-@keyframes slideIn {
-    from { opacity: 0; transform: translateY(-30px); }
-    to { opacity: 1; transform: translateY(0); }
-}
+
