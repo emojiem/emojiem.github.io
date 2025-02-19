@@ -1,7 +1,3 @@
----
-layout: default
-title: Senhadji Ahmed Mohamed
----
 
 # **Senhadji Ahmed Mohamed**
 🔧 *Ingenieurwesen | Automatisierung | Mechanik | Robotik*  
