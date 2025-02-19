@@ -1,16 +1,19 @@
+/* Dark Theme */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
-    color: #333;
+    background-color: #121212;
+    color: #fff;
 }
 
+/* Header Styling */
 header {
-    background-color: #333;
-    color: #fff;
-    padding: 10px 0;
+    background-color: #000;
+    color: #0ff;
+    padding: 20px;
     text-align: center;
+    box-shadow: 0 0 20px #0ff;
 }
 
 nav ul {
@@ -24,36 +27,85 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #fff;
+    color: #0ff;
     text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease-in-out;
 }
 
+nav ul li a:hover {
+    color: #fff;
+}
+
+/* Sections Styling */
 section {
     padding: 20px;
     margin: 20px;
-    background-color: #fff;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #222;
+    border-radius: 10px;
+    box-shadow: 0 0 20px #0ff;
+    transition: transform 0.3s ease-in-out;
 }
 
 h2 {
-    color: #333;
+    color: #0ff;
 }
 
+/* Image Glow Effect */
 img {
     max-width: 100%;
     height: auto;
     margin-top: 10px;
-    border-radius: 8px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px #0ff;
 }
 
+/* Glowing Text */
+.glow-text {
+    color: #0ff;
+    text-shadow: 0 0 10px #0ff;
+    font-weight: bold;
+    transition: text-shadow 0.3s ease-in-out;
+}
+
+.glow-text:hover {
+    text-shadow: 0 0 20px #0ff;
+}
+
+/* Animations */
+.fade-in {
+    opacity: 0;
+    transform: translateY(20px);
+    animation: fadeInUp 1s ease-in-out forwards;
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Glowing Image Effect */
+.glow {
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.glow:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 30px #0ff;
+}
+
+/* Footer */
 footer {
     text-align: center;
-    padding: 10px 0;
-    background-color: #333;
-    color: #fff;
-    position: fixed;
-    width: 100%;
-    bottom: 0;
+    padding: 10px;
+    background-color: #000;
+    color: #0ff;
+    box-shadow: 0 0 10px #0ff;
 }
 
